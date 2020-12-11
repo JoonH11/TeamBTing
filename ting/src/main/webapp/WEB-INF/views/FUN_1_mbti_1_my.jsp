@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-	<title>±âº»Æû	</title>
+	<title>ê¸°ë³¸í¼	</title>
 
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta http-equiv = "Content-Type" content="text/html; charset=utf-8">
@@ -43,14 +43,14 @@
 		       </div>
 		        <div id="navbar" class="navbar-collapse collapse">
 		          <ul class="nav navbar-nav navbar-right">
-		            <li class="active"><a href="index.jsp" data-nav-section="about"><span>ÆÃÀÌ¶õ?</span></a></li>
-		            <li><a href="Main_company_1_team.do" data-nav-section="team"><span>team</span></a></li>
-		            <li><a href="Tingtoday_0_main.do" data-nav-section="tingtoday"><span>ÆÃÅõÇÏÀÚ!</span></a></li>
-		            <li><a href="Premium_0_main.do" data-nav-section="premium"><span>ÇÁ¸®¹Ì¾ö</span></a></li>
-		            <li><a href="Fun_0_main.do" data-nav-section="fun"><span>FUN</span></a></li>
-		            <li><a href="Client_2_Ting_main.do" data-nav-section="contact"><span>¹®ÀÇ</span></a></li>
-					<li><button class="ui inverted teal button" id="login">·Î±×ÀÎ</button></li>
-					<li><button class="ui inverted teal button" id="register">È¸¿ø°¡ÀÔ</button></li>
+		            <li class="active"><a href="index.jsp" data-nav-section="about"><span>íŒ…ì´ëž€?</span></a></li>
+		            <li><a href="Main_company_1_team" data-nav-section="team"><span>team</span></a></li>
+		            <li><a href="Tingtoday_0_main" data-nav-section="tingtoday"><span>íŒ…íˆ¬í•˜ìž!</span></a></li>
+		            <li><a href="Premium_0_main" data-nav-section="premium"><span>í”„ë¦¬ë¯¸ì—„</span></a></li>
+		            <li><a href="Fun_0_main" data-nav-section="fun"><span>FUN</span></a></li>
+		            <li><a href="Client_2_Ting_main" data-nav-section="contact"><span>ë¬¸ì˜</span></a></li>
+					<li><button class="ui inverted teal button" id="login">ë¡œê·¸ì¸</button></li>
+					<li><button class="ui inverted teal button" id="register">íšŒì›ê°€ìž…</button></li>
 			      </ul>
 		        </div>
 		    </div>
@@ -65,28 +65,28 @@
           I Know About You
         </h1>
         <h3 class="sec-tit">
-          20°¡Áö Áú¹®À¸·Î ¾Ë¾Æº¸´Â<br>
-          ³»°¡ ¿¬ÀÎ¿¡°Ô ¿øÇÏ´Â °Í<br>
+          20ê°€ì§€ ì§ˆë¬¸ìœ¼ë¡œ ì•Œì•„ë³´ëŠ”<br>
+          ë‚´ê°€ ì—°ì¸ì—ê²Œ ì›í•˜ëŠ” ê²ƒ<br>
           + Disney Character
         </h3>
         <span class="time-logo"></span>
-        <div>¼Ò¿ä ½Ã°£ : 3ºÐ ³»¿Ü</div>
+        <div>ì†Œìš” ì‹œê°„ : 3ë¶„ ë‚´ì™¸</div>
       </div>
       <hr class="w-line">
       <p class="w-line">
-        <span id="p-tit">ÀÌ Å×½ºÆ®·Î ´ç½ÅÀº...</span><br>
-        ¿¬ÀÎ¿¡°Ô ¹Ù¶ó´Â °ÍÀ» ¾Ë ¼ö ÀÖ½À´Ï´Ù.<br>
-        Çö´ëÀÎ¿¡°Ô ÀÚ½ÅÀÇ Àå´ÜÁ¡À» Á¦´ë·Î ¾Ë°í ÀÌ¹ÌÁö¸¦ °ü¸®ÇÏ´Â °ÍÀº
-        ¼º°øÀûÀÎ »çÈ¸ »ýÈ°°ú ÁÁÀº ÆòÆÇÀ» ¾ò±â À§ÇØ ÇÊ¼öÀûÀÔ´Ï´Ù.
-        Å×½ºÆ® °á°ú·Î ¿¬ÀÎ¿¡°Ô ¹Ù¶ó´Â °ÍÀº ¹«¾ùÀÎÁö, ³ª¿Í ´àÀº µðÁî´Ï Ä³¸¯ÅÍ´Â ´©±¸ÀÎÁö ¾Ë¾Æº¸¼¼¿ä!
+        <span id="p-tit">ì´ í…ŒìŠ¤íŠ¸ë¡œ ë‹¹ì‹ ì€...</span><br>
+        ì—°ì¸ì—ê²Œ ë°”ë¼ëŠ” ê²ƒì„ ì•Œ ìˆ˜ ìžˆìŠµë‹ˆë‹¤.<br>
+        í˜„ëŒ€ì¸ì—ê²Œ ìžì‹ ì˜ ìž¥ë‹¨ì ì„ ì œëŒ€ë¡œ ì•Œê³  ì´ë¯¸ì§€ë¥¼ ê´€ë¦¬í•˜ëŠ” ê²ƒì€
+        ì„±ê³µì ì¸ ì‚¬íšŒ ìƒí™œê³¼ ì¢‹ì€ í‰íŒì„ ì–»ê¸° ìœ„í•´ í•„ìˆ˜ì ìž…ë‹ˆë‹¤.
+        í…ŒìŠ¤íŠ¸ ê²°ê³¼ë¡œ ì—°ì¸ì—ê²Œ ë°”ë¼ëŠ” ê²ƒì€ ë¬´ì—‡ì¸ì§€, ë‚˜ì™€ ë‹®ì€ ë””ì¦ˆë‹ˆ ìºë¦­í„°ëŠ” ëˆ„êµ¬ì¸ì§€ ì•Œì•„ë³´ì„¸ìš”!
       </p>
       <hr class="w-line">
       <div id="name-input">
-        <input type="text" placeholder="ÀÌ¸§" autofocus>
+        <input type="text" placeholder="ì´ë¦„" autofocus>
       </div>
       <p class="check-name warning"></p>
       <div class="start-wrap">
-        <button class="start">½Ã ÀÛ</button>
+        <button class="start">ì‹œ ìž‘</button>
       </div>
     </section>
     <section id="qna" class="container1">
@@ -101,7 +101,7 @@
         CALCULATING
         <div class="calc"></div>
       </div>
-      <p class="wait">Àá½Ã ±â´Ù·ÁÁÖ¼¼¿ä...</p>
+      <p class="wait">ìž ì‹œ ê¸°ë‹¤ë ¤ì£¼ì„¸ìš”...</p>
     </section>
     <section id="result" class="container1">
       <div id="score-box">
@@ -122,9 +122,9 @@
       <hr>
       <div class="caution"> 
         <p>
-          »ç¶÷Àº ¼­·Î Á¶±Ý¾¿ ´Þ¶ó¼­ 16°¡Áö ÀÌ¹ÌÁö¿¡ ²À ¸Â±â´Â ¾î·Æ½À´Ï´Ù.
-          °á°ú°¡ Á¶±Ý ¸ÂÁö ¾Ê´õ¶óµµ ÀÌ·± ¸éÀÌ ÀÖÀ½À» ¾Ë°í ÀÚ½ÅÀÇ ¸Å·ÂÀ» ¾îÇÊÇØº¸¼¼¿ä.
-          ÁÁÀº ÀÎ¿¬Àº ¾î´À»õ ´ç½ÅÀÇ ¿·¿¡ ÀÖÀ» °Ì´Ï´Ù!<br><br>
+          ì‚¬ëžŒì€ ì„œë¡œ ì¡°ê¸ˆì”© ë‹¬ë¼ì„œ 16ê°€ì§€ ì´ë¯¸ì§€ì— ê¼­ ë§žê¸°ëŠ” ì–´ë µìŠµë‹ˆë‹¤.
+          ê²°ê³¼ê°€ ì¡°ê¸ˆ ë§žì§€ ì•Šë”ë¼ë„ ì´ëŸ° ë©´ì´ ìžˆìŒì„ ì•Œê³  ìžì‹ ì˜ ë§¤ë ¥ì„ ì–´í•„í•´ë³´ì„¸ìš”.
+          ì¢‹ì€ ì¸ì—°ì€ ì–´ëŠìƒˆ ë‹¹ì‹ ì˜ ì˜†ì— ìžˆì„ ê²ë‹ˆë‹¤!<br><br>
         </p>
       </div>
       <hr>
@@ -146,19 +146,19 @@
         <div class="three wide column">
           <h4 class="ui inverted header">company</h4>
           <div class="ui inverted link list">
-          	<a href="Main_company_1_team.do" class="item">ting Team</a>
-            <a href="index.jsp" class="item">tingÀÌ¶õ?</a>
-            <a href="Premium_0_main.do" class="item">premium</a>
-            <a href="Client_2_Ting_main.do" class="item">¹®ÀÇÇÏ±â</a>
+          	<a href="Main_company_1_team" class="item">ting Team</a>
+            <a href="index.jsp" class="item">tingì´ëž€?</a>
+            <a href="Premium_0_main" class="item">premium</a>
+            <a href="Client_2_Ting_main" class="item">ë¬¸ì˜í•˜ê¸°</a>
           </div>
         </div>
         <div class="three wide column">
           <h4 class="ui inverted header">Services</h4>
           <div class="ui inverted link list">
-          	<a href="Tingtoday_0_main.do" class="item">ting Today</a>
-            <a href="FUN_1_mbti_1_my.do" class="item">MBTI</a>
-            <a href="FUN_2_test1.do" class="item">¿¬¾ÖÅ×½ºÆ®</a>
-            <a href="FUN_2_test2.do" class="item">ÀÌ»óÇüÅ×½ºÆ®</a>
+          	<a href="Tingtoday_0_main" class="item">ting Today</a>
+            <a href="FUN_1_mbti_1_my" class="item">MBTI</a>
+            <a href="FUN_2_test1" class="item">ì—°ì• í…ŒìŠ¤íŠ¸</a>
+            <a href="FUN_2_test2" class="item">ì´ìƒí˜•í…ŒìŠ¤íŠ¸</a>
           </div>
         </div>
 
@@ -166,7 +166,7 @@
           <h4 class="ui inverted header">ting Info</h4>
           <ul class="fh5co-contact-info">
 						<li class="fh5co-contact-address " >
-						<i class="icon-home" ></i>&nbsp;ºÎÃµ½Ã ¼Ò»ç±¸ ½É°îº»µ¿</li>
+						<i class="icon-home" ></i>&nbsp;ë¶€ì²œì‹œ ì†Œì‚¬êµ¬ ì‹¬ê³¡ë³¸ë™</li>
 						<li><i class="icon-phone"></i>&nbsp;(123) 456-789</li>
 						<li><i class="icon-envelope"></i>&nbsp;ting_manager@gmail.com</li>
 			</ul>
